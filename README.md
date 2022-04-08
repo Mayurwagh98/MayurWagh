@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mayur, a full-stack web developer 👨‍💻</div>  
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/embed/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
   
 </div>
   
