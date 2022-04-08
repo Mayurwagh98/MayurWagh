@@ -1,6 +1,11 @@
-<div align="center">
+<div align="left">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
+<div id="header" align="right">
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" />
+</div>
+<br/>  
   
 
 ### <div align="center">I'm Mayur, a full-stack web developer 👨‍💻</div>  
@@ -52,12 +57,6 @@
 </div>
 
 </td></tr></table>  
-
- <div id="header" align="right">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" />
-</div>
-<br/>  
 
 
 ## Connect with me  
