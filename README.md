@@ -80,7 +80,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mayurwagh98&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mayurwagh98&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Mayurwagh98&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurwagh98&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
