@@ -4,11 +4,6 @@
   
 
 ### <div align="center">I'm Mayur, a full-stack web developer 👨‍💻</div>  
-
-<div id="header" align="right">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="300" />
-</div>
   
 - 🌱 I’m currently learning HTML, CSS, Javascript and MERN Development  
   
@@ -22,6 +17,10 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+  <div id="header" align="right">
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" />
+</div>
 
 
 ### Frontend  
