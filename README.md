@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 <!--   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" align = "right" /> -->
 </div>  
