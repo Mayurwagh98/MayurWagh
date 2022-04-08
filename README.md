@@ -105,7 +105,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Blog Posts  
 - [Letting Go of The Past Relationships](https://medium.com/@mswagh98/letting-go-of-the-past-relationships-716b54b3ea55)  
   
 
