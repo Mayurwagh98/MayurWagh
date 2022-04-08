@@ -82,7 +82,10 @@
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mayurwagh98&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>   -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayurwagh98&theme=dark)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurwagh98&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+## Language Stats
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurwagh98&hide_border=true&layout=compact" align="left" style="width: 100%" />   -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurwagh98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
