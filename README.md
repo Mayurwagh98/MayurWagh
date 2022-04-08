@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Mayur, a full-stack web developer 👨‍💻</div>  
 
-<img <iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>/>
+<img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
   
 - 🌱 I’m currently learning HTML, CSS, Javascript and MERN Development  
   
