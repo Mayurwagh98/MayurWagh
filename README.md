@@ -1,11 +1,8 @@
 <div align="left">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" align = "right" />
+<!--   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" align = "right" /> -->
 </div>  
-<!-- <div id="header" align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-</div> -->
+
 <br/>  
   
 
@@ -61,6 +58,10 @@
 
 
 ## Connect with me  
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+</div>
 <div align="center">
 <a href="https://instagram.com/m_philomath" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
