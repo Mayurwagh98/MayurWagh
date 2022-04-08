@@ -15,9 +15,9 @@
 <!-- ### <div align="center">I'm Mayur, a Full-Stack Web Developer 👨‍💻</div>   -->
 
 ## About Me 
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250" />
- 
+
 </div>
 Inventive Web Developer creates novel site’s designs and
 innovative user interfaces. Known for architecting customer
