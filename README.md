@@ -1,7 +1,3 @@
-# MayurWagh
-
-<!-- ![header](https://user-images.githubusercontent.com/69896733/162498856-3f1809bc-387c-4655-963a-6626894ae1af.png) -->
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -49,6 +45,13 @@
 
 
 
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+</div>
+
 </td></tr></table>  
 
 <br/>  
@@ -81,9 +84,23 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+- [Letting Go of The Past Relationships](https://medium.com/@mswagh98/letting-go-of-the-past-relationships-716b54b3ea55)  
+  
+
+- [Procrastination](https://medium.com/@mswagh98/procrastination-a8b81c417117)  
+  
+
+- [Worries and, Stress](https://medium.com/@mswagh98/worries-and-stress-f6b40115c140)  
+  
+
+- [Skills vs Degrees](https://medium.com/@mswagh98/skills-vs-degrees-270606c7f838)  
+  
+
+- [Journey of Cloning of the website AJIO](https://medium.com/@mswagh98/journey-of-cloning-of-the-website-ajio-eea2c87fac66)  
+  
+
+- [Cloning of a Chinese Website Banggood](https://medium.com/@mswagh98/cloning-of-chinese-website-banggood-9c6f3ac7290d)  
+  
 
 <br/>  
 
