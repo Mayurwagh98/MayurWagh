@@ -1,4 +1,6 @@
-<img src = "https://user-images.githubusercontent.com/69896733/162523277-4a7a4e2f-69d8-4a13-b07a-f31a369b49bc.png" align = "center"/>
+<div align = "center">
+  <img src = "https://user-images.githubusercontent.com/69896733/162523277-4a7a4e2f-69d8-4a13-b07a-f31a369b49bc.png" />
+</div>
 <!-- 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
