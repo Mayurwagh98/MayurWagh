@@ -15,6 +15,11 @@
 <!-- ### <div align="center">I'm Mayur, a Full-Stack Web Developer 👨‍💻</div>   -->
 
 ## About Me 
+Inventive Web Developer creates novel site’s designs and
+innovative user interfaces. Known for architecting customer
+facing products that deliver unique experiences while complying
+with internal coding standards and technical requirements.
+Clever provider of fresh assets to grow usership.
 - 🌱 I’m currently learning HTML, CSS, Javascript and MERN Development.
 - 🙌 In my free time, I write blogs or read books. 
 - 😎 Other than being a developer as a human I like go on hiking.  
