@@ -1,9 +1,10 @@
-<img src = "https://user-images.githubusercontent.com/69896733/162523277-4a7a4e2f-69d8-4a13-b07a-f31a369b49bc.png" />
+<img src = "https://user-images.githubusercontent.com/69896733/162523277-4a7a4e2f-69d8-4a13-b07a-f31a369b49bc.png" align = "center"/>
+<!-- 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 <!--   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" align = "right" /> -->
 </div>  
-
+ -->
 <br/>  
   
 
