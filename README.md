@@ -16,7 +16,7 @@
 
 ## About Me 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO.giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250" />
  
 </div>
 Inventive Web Developer creates novel site’s designs and
