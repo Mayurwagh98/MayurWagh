@@ -16,9 +16,11 @@
 
 ## About Me 
 <div id="header" align="right">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200" />
 
 </div>
+
+<div align = "left">
 Inventive Web Developer creates novel site’s designs and
 innovative user interfaces. Known for architecting customer
 facing products that deliver unique experiences while complying
@@ -27,6 +29,7 @@ Clever provider of fresh assets to grow usership.
 - 🌱 I’m currently learning HTML, CSS, Javascript and MERN Development.
 - 🙌 In my free time, I write blogs or read books. 
 - 😎 Other than being a developer as a human I like go on hiking.  
+</div>
   
 <br/>  
 
