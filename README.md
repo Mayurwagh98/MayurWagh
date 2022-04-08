@@ -59,7 +59,7 @@
 
 ## Connect with me  
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" align = "right" />
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" />
 </div>
 <div align="center">
 <a href="https://instagram.com/m_philomath" target="_blank">
