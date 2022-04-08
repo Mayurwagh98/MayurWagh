@@ -17,11 +17,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-  <div id="header" align="right">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" />
-</div>
-
+ 
 
 ### Frontend  
 <div align="center">  
@@ -57,6 +53,10 @@
 
 </td></tr></table>  
 
+ <div id="header" align="right">
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250" />
+</div>
 <br/>  
 
 
