@@ -6,7 +6,8 @@
 <br/>  
   
 
-### <div align="center">I'm Mayur, a Full-Stack Web Developer 👨‍💻</div>  
+<!-- ### <div align="center">I'm Mayur, a Full-Stack Web Developer 👨‍💻</div>   -->![github-header-image](https://user-images.githubusercontent.com/69896733/162523277-4a7a4e2f-69d8-4a13-b07a-f31a369b49bc.png)
+
   
 - 🌱 I’m currently learning HTML, CSS, Javascript and MERN Development.
 - 🙌 In my free time, I write blogs or read books. 
