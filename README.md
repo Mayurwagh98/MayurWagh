@@ -14,6 +14,7 @@
 
 <!-- ### <div align="center">I'm Mayur, a Full-Stack Web Developer 👨‍💻</div>   -->
 
+##About Me
   
 - 🌱 I’m currently learning HTML, CSS, Javascript and MERN Development.
 - 🙌 In my free time, I write blogs or read books. 
