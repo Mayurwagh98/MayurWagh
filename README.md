@@ -5,6 +5,7 @@
 
 ### <div align="center">I'm Mayur, a full-stack web developer 👨‍💻</div>  
 
+<iframe src="https://giphy.com/embed/fwbzI2kV3Qrlpkh59e" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dgitechart-it-coding-itechart-fwbzI2kV3Qrlpkh59e">via GIPHY</a></p>
   
 - 🌱 I’m currently learning HTML, CSS, Javascript and MERN Development  
   
@@ -120,4 +121,4 @@
 
 <br />
 
-<div style="width:100%;height:0;padding-bottom:120%;position:relative;"><iframe src="https://giphy.com/embed/fvx95jkua5th3YeThr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KIBERone-kiberone-kiber-kiber-one-fvx95jkua5th3YeThr">via GIPHY</a></p>
+
