@@ -62,13 +62,13 @@
 <a href="https://instagram.com/m_philomath" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/github.com/Mayurwagh98" target="_blank">
+<a href="https://github.com/Mayurwagh98" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/linkedin.com/in/mayur--wagh" target="_blank">
+<a href="https://linkedin.com/in/mayur--wagh" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/medium.com/@mswagh98  " target="_blank">
+<a href="https://medium.com/@mswagh98  " target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -79,6 +79,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mayurwagh98&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurwagh98&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
 <br/>  
 
