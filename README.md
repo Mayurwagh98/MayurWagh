@@ -24,7 +24,7 @@
     
     - 🌱 I’m currently learning HTML, CSS, Javascript and MERN Development.
     - 🙌 In my free time, I write blogs or read books. 
-    - 😎 Other than being a developer as a human I like go on hiking.  
+    - 😎 Other than being a developer as a human I like to go on hiking.  
 
   
 <br/>  
