@@ -131,6 +131,27 @@
 - [Cloning of a Chinese Website Banggood](https://medium.com/@mswagh98/cloning-of-chinese-website-banggood-9c6f3ac7290d)  
   
 
+#blogs
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
+name: Update readme with blog posts
+on: 
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://lukelowrey.com/rss/
+          readme-section: feed
+          max: 10 # max number of items (default 5)
+          
+
 <br/>  
 
 <!-- <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>   -->
