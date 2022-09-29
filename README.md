@@ -113,6 +113,10 @@
 
 
 ## Blog Posts  
+- [What is Temporal Dead Zone (TDZ) in Javascript](https://medium.com/@mswagh98/what-is-temporal-dead-zone-tdz-in-javascript-a413ee77572e)
+
+- [4 Steps to Setup Prettier on VS Code](https://medium.com/@mswagh98/4-steps-to-setup-prettier-on-vs-code-74c003ac285d)
+
 - [Chapter 1 - Into Javascript](https://medium.com/@mswagh98/chapter-1-into-javascript-a79f6d0a9f28)
 
 - [Letting Go of The Past Relationships](https://medium.com/@mswagh98/letting-go-of-the-past-relationships-716b54b3ea55)  
