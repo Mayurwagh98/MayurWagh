@@ -30,6 +30,8 @@
     with internal coding standards and technical requirements.
     Clever provider of fresh assets to grow usership.
     
+<br/>
+    
     - 🌱 I’m currently learning HTML, CSS, Javascript and MERN Development.
     - 🙌 In my free time, I write blogs or read books. 
     - 😎 Other than being a developer as a human I like to go on hiking and explore new places.  
