@@ -105,7 +105,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayurwagh98&theme=dark)](https://git.io/streak-stats)
 
 ## Language Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurwagh98&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurwagh98&hide_border=true&layout=compact" align="left" style="width: 50%" />  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurwagh98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
